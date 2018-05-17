@@ -1,2 +1,0 @@
-# StudyDemo
-学习菜鸟课程网站上android相关知识所写的demo
